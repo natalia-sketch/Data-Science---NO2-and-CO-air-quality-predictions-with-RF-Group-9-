@@ -1,0 +1,2 @@
+# Data-Science---NO2-and-CO-air-quality-predictions-with-RF-Group-9-
+This is Group 9's project submission for the Master course: Data Science in bioscience engineering. Using data from ERA5, MODIS, Sentinel 5p, Global Landcover and OpenAQ we created a machine learning approach to predict ground level NO2 and CO concentrations for the country of India valid for 2025. The algorithm used is Random Forest Regressor. 
