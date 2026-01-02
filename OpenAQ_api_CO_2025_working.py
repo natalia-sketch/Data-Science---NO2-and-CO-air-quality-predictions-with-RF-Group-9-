@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Fetch daily (days) aggregated sensor values for CO, O3 and NO2 in India
-between 2023-01-01 and 2024-12-31 using OpenAQ v3 endpoints.
+Fetch daily (days) aggregated sensor values for CO and NO2 in India
+between 2025-01-01 and 2025-12-31 using OpenAQ v3 endpoints.
 
 Outputs:
  - data.json  -> full list of records (one item per sensor-day)
@@ -165,3 +165,4 @@ def main():
 
 if __name__ == "_main_":
     main()
+
